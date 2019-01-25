@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budget", "Budget\Budget.csproj", "{E68CFE9C-4C71-4C79-9C94-D5A7A1737D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E68CFE9C-4C71-4C79-9C94-D5A7A1737D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68CFE9C-4C71-4C79-9C94-D5A7A1737D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68CFE9C-4C71-4C79-9C94-D5A7A1737D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68CFE9C-4C71-4C79-9C94-D5A7A1737D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B17C135A-707C-4F2C-8A78-16A5855C4B34}
+	EndGlobalSection
+EndGlobal
